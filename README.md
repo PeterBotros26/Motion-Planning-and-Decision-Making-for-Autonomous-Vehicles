@@ -9,7 +9,7 @@ In this project, I implemented two of the main components of a traditional hiera
 
 To accomplish this, I implemented:
 
- 1-Behavioral planning logic using Finite State Machines - FSM <br />
- 2-Static objects collision checking. <br />
- 3-Path and trajectory generation using cubic spirals <br />
- 4-Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we   get closer or collide with objects but maintaining a bias to stay closer to the lane center line.
+  1) Behavioral planning logic using Finite State Machines - FSM <br />
+  2) Static objects collision checking. <br />
+  3) Path and trajectory generation using cubic spirals <br />
+  4) Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we get closer or collide with objects but maintaining a bias to stay closer to the lane center line.
